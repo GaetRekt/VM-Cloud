@@ -18,19 +18,19 @@ OVFTool installé</p>
 <h2 id="explications-de-la-commande-">Explications de la commande :</h2>
 <ul>
 <li>
-<p>ovftool.exe : Exécute OVFTOOL</p>
+<p><code>ovftool.exe</code>: Exécute OVFTOOL</p>
 </li>
 <li>
-<p>–noSSLVerify : Ne vérifie pas si les certificats sont outdated ou pas</p>
+<p><code>--noSSLVerify</code> : Ne vérifie pas si les certificats sont outdated ou pas</p>
 </li>
 <li>
-<p>–allowExtraConfig : Prend en compte toute les configurations / paramètres de la VM</p>
+<p><code>--allowExtraConfig</code> : Prend en compte toute les configurations / paramètres de la VM</p>
 </li>
 <li>
-<p>vi:// : permet de définir sur quelle machine nous allons nous connecter</p>
+<p><code>vi://</code> : permet de définir sur quelle machine nous allons nous connecter</p>
 </li>
 <li>
-<p>@IP : indique sur quelle IP nous allons nous connecter</p>
+<p><code>@IP</code> : indique sur quelle IP nous allons nous connecter</p>
 </li>
 </ul>
 <p>Ici j’utilise le format VMDK, mais nous pouvons aussi très bien utiliser le format ISO, OVA, ou autres, pour plus d’informations rendez-vous sur le site officiel de VMware sur <a href="https://bit.ly/395PWxe">la page d’OVFTool</a></p>
