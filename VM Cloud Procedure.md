@@ -6,7 +6,7 @@
 <h1 id="exporter-une-vm-d’un-esxi-vers-openstack"><strong>Exporter une VM d’un ESXi vers OpenStack</strong></h1>
 <p><strong>Prérequis :</strong></p>
 <p>Un système Open Stack fonctionnel<br>
-OVFTool installé</p>
+PC avec OVFTool installé <a href="https://my.vmware.com/fr/web/vmware/details?downloadGroup=OVFTOOL400&amp;productId=353">(Linux , Mac ou Windows)</a></p>
 <h2 id="ère-étape-"><strong>1ère étape :</strong></h2>
 <p>Se rendre dans le dossier d’OVFTool :</p>
 <p>C:\Program Files\VMware\VMware OVF Tool</p>
