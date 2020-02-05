@@ -33,5 +33,5 @@ OVFTool installé</p>
 <p><code>@IP</code> : indique sur quelle IP nous allons nous connecter</p>
 </li>
 </ul>
-<p>Ici j’utilise le format VMDK, mais nous pouvons aussi très bien utiliser le format ISO, OVA, ou autres, pour plus d’informations rendez-vous sur le site officiel de VMware sur <a href="https://bit.ly/395PWxe">la page d’OVFTool</a></p>
+<p>Ici j’utilise le format VMDK, mais nous pouvons aussi très bien utiliser le format ISO, OVA, ou autres, pour plus d’informations rendez-vous sur le site officiel de VMware sur <a href="https://www.vmware.com/support/developer/ovf/ovftool-430-userguide.pdf">la page d’OVFTool</a></p>
 
