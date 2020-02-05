@@ -10,7 +10,7 @@ OVFTool installé</p>
 <h2 id="ère-étape-"><strong>1ère étape :</strong></h2>
 <p>Se rendre dans le dossier d’OVFTool :</p>
 <p>C:\Program Files\VMware\VMware OVF Tool</p>
-<p>Ouvrir un terminal puis exécuter la commande suivante :</p>
+<p>Ouvrir un terminal dans le dossier puis exécuter la commande suivante :</p>
 <blockquote>
 <p><code>ovftool.exe --noSSLVerify --allowExtraConfig vi://user:password@147.135.255.164/vm destination/nom.vmdk</code></p>
 </blockquote>
